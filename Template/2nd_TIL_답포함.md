@@ -89,12 +89,6 @@ INNER JOIN
 RIGHT JOIN
 ```
 
-### 1-4. 
-![TABLE](/img/2-4.PNG)
-```
-FULL JOIN
-```
-
 ### 1-5. CROSS JOIN을 수행할 경우, 결과 테이블의 행 개수는 몇 개인가요?
 ```
 45개
